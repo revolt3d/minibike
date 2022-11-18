@@ -7,7 +7,7 @@ Template: blank
 Hidden: true
 ---
 
-[Return to this Minibike Project Home](/)
+[Return to this Minibike Project Home](..)
 
 # Tecumseh H35 Engine
 The first thing I bought was an engine. It's a 1978 Tecumseh H35 snowblower motor. The engine runs perfectly. I purchased it off of ebay for $105 shipped. It started on the first pull. I might need the carb rejetted, but I'm going to wait to see how it runs without changing the carb. 

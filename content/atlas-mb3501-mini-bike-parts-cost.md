@@ -7,7 +7,7 @@ Template: blank
 Hidden: true
 ---
 
-[Return to this Minibike Project Home](/)
+[Return to this Minibike Project Home](..)
 
 # Total Cost
 |Item|Estmated Cost|Cost|

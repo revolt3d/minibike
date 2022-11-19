@@ -3,7 +3,7 @@
         'name' => 'picocms/pico-composer',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '481d808821f8bc124fef61ed4ebf8d5476511b3f',
+        'reference' => 'eb9cb749946294c881964cf7f517413dd8e7773b',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -49,7 +49,7 @@
         'picocms/pico-composer' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '481d808821f8bc124fef61ed4ebf8d5476511b3f',
+            'reference' => 'eb9cb749946294c881964cf7f517413dd8e7773b',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

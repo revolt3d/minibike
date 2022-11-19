@@ -7,7 +7,7 @@ Template: blank
 Hidden: true
 ---
 
-[Return to this Minibike Project Home](/)
+[Return to this Minibike Project Home](..)
 
 # Minibike Frame
 I purchased the Atlas Mini-Bike frame off of ebay as well in September 2022 for $150. I picked it up from a guy in PA. It has everything except working brakes and a throttle assembly.

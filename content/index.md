@@ -6,7 +6,7 @@ Date: 2021-12-15 10:31:03
 Template: blank
 Hidden: true
 ---
-# A Minibike Website
+# A Minibike Magazine
 This is a website about minibikes. Mostly, it's about minibikes I'm working on.
 
 ## Atlas MB3501 Winter 2022-23 Project

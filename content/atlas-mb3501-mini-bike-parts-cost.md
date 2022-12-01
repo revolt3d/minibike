@@ -14,12 +14,13 @@ Hidden: true
 |-|-|-|
 |Frame, wheels, fork| |$150|
 |Engine| |$105|
-|Paint (2 cans appliance epoxy, 2 cans black, 2 cans red)| |$50|
+|Paint (3 cans appliance epoxy, 2 cans black, 2 cans red)| |$60|
 |Seat|$40| |
 |Controls (brake, throttle, ignition switch)|$60| |
 |Brakes|$30| |
 |Clutch|$30| |
-| | |$465|
+|Sprockets||$30|
+| | |$505|
 
 ## Parts
 ### Frame, fork, wheels and fenders
